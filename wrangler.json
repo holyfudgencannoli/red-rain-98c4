@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "home-db",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "70e05824-5b06-4d2d-a402-8b09ac469f75",
+      "database_name": "wandering-darkness-7fa6-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
